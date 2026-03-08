@@ -1,0 +1,15 @@
+title: Divorced in Virginia
+description: Your site description here
+author: Your Name
+email: your.email@example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude files/folders
+exclude:
+  - .gitignore
+  - README.md
+  - node_modules
